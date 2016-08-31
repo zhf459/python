@@ -1,6 +1,6 @@
 
 from time import ctime,sleep
-
+#print 'hello,git test here!'
 def tsfunc(func):
     def wrappedFunc():
         print "[%s] %s() called" % \
